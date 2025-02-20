@@ -1,0 +1,125 @@
+.desktop-1,
+.desktop-1 * {
+  box-sizing: border-box;
+}
+.desktop-1 {
+  background: #ebcbcb;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1 {
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.professor-contact-paul-t-shapiro {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 78px;
+  top: 370px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.ta-contact-bharath-sreekumar-bsreekum-umd-edu-caifu-lin-clin-0817-terpmail-umd-edu-sumanth-devara-sdevara-umd-edu {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 80px;
+  top: 507px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 78px;
+  top: 291px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact-us {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 36px;
+  font-weight: 600;
+  position: absolute;
+  left: 80px;
+  top: 197px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1209px;
+  top: 57px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.about {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 1001px;
+  top: 57px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.homepage {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 700px;
+  top: 57px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bmgt-407 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+  position: absolute;
+  left: 19px;
+  top: 14px;
+  width: 278px;
+  height: 134px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  -webkit-text-stroke: 1px #000000;
+}
